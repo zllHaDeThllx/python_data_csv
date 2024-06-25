@@ -6,6 +6,8 @@ Estamos haciendo unos preparativos para ver como utilizamos los comandos de git
 
 Cristian was here
 
+Joseph was here :D 
+
 Hola soy over
 
 =======
