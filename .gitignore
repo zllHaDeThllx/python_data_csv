@@ -1,1 +1,3 @@
+# Ignorar carpetas genradas
 .venv
+files_general/
