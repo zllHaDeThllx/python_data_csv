@@ -96,13 +96,13 @@ def means_by_year(df):
 
     # Storing plot
     try:
-        plt.savefig("files_general/plots/means_by_month.png")
+        plt.savefig("files_general/Cristian/plots/means_by_month.png")
         print("Save")
     except:
-        os.makedirs("files_general/plots")
+        os.makedirs("files_general/Cristian/plots")
 
-    if os.path.exists("files_genral/plots"):
-        plt.savefig("files_general/plots/means_by_month.png")
+    if os.path.exists("files_genral/Cristian/plots"):
+        plt.savefig("files_general/Cristian/plots/means_by_month.png")
         print("Save")
 
 
