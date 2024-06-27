@@ -1,4 +1,4 @@
 # Ignorar carpetas genradas
 .venv
 files_general/
-processing.ipynb
+Cris/processing.ipynb
